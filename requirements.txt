@@ -1,2 +1,4 @@
 openai
 streamlit
+
+http://ipudf0notauwt2-8000.proxy.runpod.net/v1
