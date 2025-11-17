@@ -18,5 +18,5 @@ vllm bench serve --backend vllm --model meta-llama/Llama-3.1-70B-Instruct --endp
 ```
 
 ```bash
-streamlit run app.py
+streamlit run app.py --server.enableCORS false --server.enableXsrfProtection false
 ```
